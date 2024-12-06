@@ -15,6 +15,21 @@ $discard,site=twitter.com
 $discard,site=pinterest.com
 $discard,site=quora.com
 $discard,site=google.com
+discard,site=about.you
+$discard,site=blog.google
+$discard,site=doodles.google
+$discard,site=google.co.uk
+$discard,site=grow.google
+$discard,site=google.org
+$discard,site=tv.google
+$discard,site=families.google
+$discard,site=safety.google
 $discard,site=facebook.com
+$discard,site=pinterestcareers.com
+$discard,site=pinterestacademy.com
+$discard,site=investor.pinterestinc.com
+$discard,site=pinterest.de
+$discard,site=pinterest.at
+
 
 
