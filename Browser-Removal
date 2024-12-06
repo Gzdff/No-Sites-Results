@@ -5,6 +5,9 @@
 
 $discard,site=youtube.com
 $discard,site=youtubekids.com
+$discard,site=health.youtube
+$discard,site=about.youtube
+$discard,site=youtube.jp
 $discard,site=blog.youtube
 $discard,site=tiktok.com
 $discard,site=x.com
