@@ -13,9 +13,16 @@ $discard,site=tiktok.com
 $discard,site=x.com
 $discard,site=twitter.com
 $discard,site=pinterest.com
+$discard,site=pinterestcareers.com
+$discard,site=pinterestacademy.com
+$discard,site=investor.pinterestinc.com
+$discard,site=pinterest.de
+$discard,site=pinterest.at
+$discard,site=pinterest.ru
 $discard,site=quora.com
 $discard,site=google.com
-discard,site=about.you
+$discard,site=about.you
+$discard,site=about.google
 $discard,site=blog.google
 $discard,site=doodles.google
 $discard,site=google.co.uk
@@ -24,12 +31,8 @@ $discard,site=google.org
 $discard,site=tv.google
 $discard,site=families.google
 $discard,site=safety.google
+$discard,site=lens.google
 $discard,site=facebook.com
-$discard,site=pinterestcareers.com
-$discard,site=pinterestacademy.com
-$discard,site=investor.pinterestinc.com
-$discard,site=pinterest.de
-$discard,site=pinterest.at
 
-
-
+# Makes Wikipedia pop up lower
+$downrank=10,site=Wikipedia.com
