@@ -221,3 +221,4 @@ $discard,site=facebook.com
 
 # Pop-ups
 $discard,site=wikipedia.com
+$discard,site=wikipedia.org
