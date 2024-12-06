@@ -2,7 +2,10 @@
 ! description: Cleans up results in Goggles
 ! public: true
 ! author: Gzdff
+
 $discard,site=youtube.com
+$discard,site=youtubekids.com
+$discard,site=blog.youtube
 $discard,site=tiktok.com
 $discard,site=x.com
 $discard,site=twitter.com
@@ -10,3 +13,5 @@ $discard,site=pinterest.com
 $discard,site=quora.com
 $discard,site=google.com
 $discard,site=facebook.com
+
+
