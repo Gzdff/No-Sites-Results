@@ -1,3 +1,7 @@
+! name: Browser-Removal
+! description: Cleans up results in Goggles
+! public: true
+! author: Gzdff
 $discard,site=youtube.com
 $discard,site=tiktok.com
 $discard,site=x.com
